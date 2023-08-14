@@ -1,7 +1,7 @@
 {
     "name": "Anne Pro 2",
     "vendorId": "0xFEED",
-    "productId": "0x8009",
+    "productId": "8009",
     "matrix": {
         "rows": 5,
         "cols": 14
